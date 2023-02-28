@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<h3>PDF Ekle</h3>
+<form action = "{% url 'addPdf' %}" class="form-inline my-2 my-lg-0"  method ="post" enctype="multipart/form-data">
+  <div class="form-group">
+    {% csrf_token %}
+    <br>
+    {{form.as_p}}
+    <label for="usr">Özetin Bulunduğu Sayfa:</label>
+        <input type="text" class="form-control mr-sm-2" id="ozet" name="ozet">
+        <br>
+    <button type="submit" class="btn btn-dark">PDF Ekle</button>
+  </div>
+</form>
+
+
+{% endblock body %}

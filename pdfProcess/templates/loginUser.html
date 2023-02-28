@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<h3>PDF Ekle</h3>
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+    <!-- Login Form -->
+    <form action = "{% url 'loginUser' %}" method ="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div class="form-group">
+        <label for="usr">Kullanıcı Adı:</label>
+        <input type="text" class="form-control" id="usr" name="usr">
+        </div>
+        <div class="form-group">
+        <label for="pwd">Şifre:</label>
+        <input type="password" class="form-control" id="pwd" name="pwd">
+        <br>
+        <button type="submit" class="btn btn-dark">Giriş Yap</button>
+    </div>
+    </form>
+
+  </div>
+</div>
+
+{% endblock body %}

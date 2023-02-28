@@ -1,0 +1,94 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<h3>Kontrol Paneli</h3>
+
+<div class="jumbotron text-center">
+    <h3>Hoşgeldiniz, {{request.user.username}}</h3>
+    {% if request.user.is_superuser %}
+    <h5>Kullanıcı Tipi: Admin</h5>
+    {% else %}
+    <h5>Kullanıcı Tipi: Normal</h5>
+    {% endif %}
+</div>
+<hr>
+
+<a class="btn btn-dark" href="{% url 'addPdf' %}" role="button">PDF Ekle</a>
+{% if request.user.is_superuser %}
+<a class="btn btn-light" href="{% url 'admin:index' %}" role="button">Admin Paneli</a>
+{% endif %}
+<hr>
+    <form action = "{% url 'search' %}" class="form-inline my-2 my-lg-0" method ="post" enctype="multipart/form-data">       
+        {% csrf_token %}
+        <script>
+
+            function yesnoCheck() {
+                if (document.getElementById('flexRadioDefault1').checked) {
+                    document.getElementById('aramaYap2').style.display = 'block';
+                    document.getElementsByName('aramaYap')[0].placeholder='Ders';
+                }
+
+                else if (document.getElementById('flexRadioDefault2').checked) {
+                    document.getElementById('aramaYap2').style.display = 'none';
+                    document.getElementsByName('aramaYap')[0].placeholder='Diğer Bilgiler';
+                } 
+
+                else document.getElementById('aramaYap2').style.display = 'none';
+
+            }
+
+        </script>
+        <input name = "aramaYap" class="form-control mr-sm-2" type="search" placeholder="Ara" aria-label="Search">
+        <input style="display:none;" id = "aramaYap2" name = "aramaYap2" class="form-control mr-sm-2" type="search" placeholder="Donem" aria-label="Search">
+        <div class="form-check">
+        <input onclick="javascript:yesnoCheck();" value ="1" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+        <label class="form-check-label" for="flexRadioDefault1">
+           Dönem ve Ders Adına Göre
+        </label>
+        </div>&nbsp;
+        <div class="form-check">
+        <input onclick="javascript:yesnoCheck();" value = "2" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+        <label class="form-check-label" for="flexRadioDefault2">
+            Diğer Bilgilere Göre
+        </label>
+        </div>&nbsp;
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Ara</button>
+    </form>
+<hr>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Okul</th>
+      <th scope="col">Ders</th>
+      <th scope="col">Proje Başlığı</th>
+      <th scope="col">Öğrenci Bilgileri</th>
+      <th scope="col">Danışman</th>
+      <th scope="col">Juriler</th>
+      <th scope="col">Dönem</th>
+      <th scope="col">Özet</th>
+      <th scope="col">Anahtar Kelimeler</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for data in dataPdfs %}
+    <tr>
+      <td>{{data.okul}}</td>
+      <td>{{data.lecture}}</td>
+      <td>{{data.projectTitle | truncatechars:25}}</td>
+      <td>{{data.studentInfo}}</td>
+      <td>{{data.superVisor}}</td>
+      <td>{{data.juries}}</td>
+      <td>{{data.presentationDate}}</td>
+      <td>{{data.abstract | truncatechars:25 }}</td>
+      <td>{{data.keyWords}}</td>
+      <td><a class="btn btn-success btn-sm" href="{% url 'details' data.id %}" role="button">Detaylı Göster</a></td>
+      <td><a class="btn btn-danger btn-sm" href="{% url 'delete' data.pdfFile_id %}" role="button">Pdf Sil</a></td>
+
+    </tr>  
+  {% endfor %}
+     
+  </tbody>
+</table>
+
+{% endblock body %}

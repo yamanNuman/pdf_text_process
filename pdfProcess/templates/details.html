@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<h3>Detaylar</h3>
+<hr>
+<table class="table">
+  
+  <tbody>
+    {% for pdf in pdfLoad  %}
+    <tr>
+      <td><b>PDF Dosyası: </b> <a class="btn btn-success btn-sm" href= {{pdf.createdPdf.url}} role="link">PDF Göster</a></td>
+    </tr>
+    {% endfor %}
+    
+  {% for data in pdfData  %}
+    <tr>
+      <td><b>Okul: </b>{{data.okul}}</td>
+    </tr>
+    <tr>
+      <td><b>Ders: </b>{{data.lecture}}</td>
+    </tr>
+    <tr>
+      <td><b>Proje Başlığı: </b>{{data.projectTitle}}</td>
+    </tr>
+    <tr>
+      <td><b>Öğrenci Bilgileri: </b>{{data.studentInfo}}</td>
+    </tr>
+    <tr>
+      <td><b>Danışman: </b>{{data.superVisor}}</td>
+    </tr>
+    <tr>
+      <td><b>Juriler: </b> {{data.juries}}</td>
+    </tr>
+    <tr>
+      <td><b>Dönem: </b>{{data.presentationDate}}</td>
+    </tr>
+    <tr>
+      <td><b>Özet: </b> {{data.abstract}}</td>
+    </tr>
+    <tr>
+      <td><b>Anahtar Kelimeler: </b> {{data.keyWords}}</td>
+    </tr>
+  {% endfor %}
+    
+  </tbody>
+</table>
+
+
+{% endblock body %}

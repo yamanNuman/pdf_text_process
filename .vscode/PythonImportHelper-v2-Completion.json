@@ -1,0 +1,1738 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "views",
+        "importPath": "user",
+        "description": "user",
+        "isExtraImport": true,
+        "detail": "user",
+        "documentation": {
+            "value": "\n```python\nimport user\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db",
+        "description": "django.db",
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {
+            "value": "\n```python\nimport django.http\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {
+            "value": "\n```python\nimport io\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {
+            "value": "\n```python\nimport io\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TextConverter",
+        "importPath": "pdfminer.converter",
+        "description": "pdfminer.converter",
+        "isExtraImport": true,
+        "detail": "pdfminer.converter",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.converter\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TextConverter",
+        "importPath": "pdfminer.converter",
+        "description": "pdfminer.converter",
+        "isExtraImport": true,
+        "detail": "pdfminer.converter",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.converter\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LAParams",
+        "importPath": "pdfminer.layout",
+        "description": "pdfminer.layout",
+        "isExtraImport": true,
+        "detail": "pdfminer.layout",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.layout\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LAParams",
+        "importPath": "pdfminer.layout",
+        "description": "pdfminer.layout",
+        "isExtraImport": true,
+        "detail": "pdfminer.layout",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.layout\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LAParams",
+        "importPath": "pdfminer.layout",
+        "description": "pdfminer.layout",
+        "isExtraImport": true,
+        "detail": "pdfminer.layout",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.layout\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFDocument",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfdocument\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFDocument",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfdocument\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFNoOutlines",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfdocument\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFXRefFallback",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfdocument\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\\",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfdocument\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFDocument",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfdocument\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFResourceManager",
+        "importPath": "pdfminer.pdfinterp",
+        "description": "pdfminer.pdfinterp",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfinterp",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfinterp\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFPageInterpreter",
+        "importPath": "pdfminer.pdfinterp",
+        "description": "pdfminer.pdfinterp",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfinterp",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfinterp\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFResourceManager",
+        "importPath": "pdfminer.pdfinterp",
+        "description": "pdfminer.pdfinterp",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfinterp",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfinterp\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFPageInterpreter",
+        "importPath": "pdfminer.pdfinterp",
+        "description": "pdfminer.pdfinterp",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfinterp",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfinterp\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFPage",
+        "importPath": "pdfminer.pdfpage",
+        "description": "pdfminer.pdfpage",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfpage",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfpage\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFPage",
+        "importPath": "pdfminer.pdfpage",
+        "description": "pdfminer.pdfpage",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfpage",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfpage\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFPage",
+        "importPath": "pdfminer.pdfpage",
+        "description": "pdfminer.pdfpage",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfpage",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfpage\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFParser",
+        "importPath": "pdfminer.pdfparser",
+        "description": "pdfminer.pdfparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfparser",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfparser\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFParser",
+        "importPath": "pdfminer.pdfparser",
+        "description": "pdfminer.pdfparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfparser",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfparser\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFParser",
+        "importPath": "pdfminer.pdfparser",
+        "description": "pdfminer.pdfparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfparser",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdfparser\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {
+            "value": "\n```python\nimport re\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.decorators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {
+            "value": "\n```python\nimport logging\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {
+            "value": "\n```python\nimport os.path\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Container",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TextIO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\\",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Container",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {
+            "value": "\n```python\nimport typing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {
+            "value": "\n```python\nimport warnings\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {
+            "value": "\n```python\nimport argparse\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {
+            "value": "\n```python\nimport argparse\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pdfminer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer",
+        "description": "pdfminer",
+        "detail": "pdfminer",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFObjectNotFound",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdftypes\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFValueError",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdftypes\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFStream",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdftypes\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFObjRef",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdftypes\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "resolve1",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdftypes\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "stream_value",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.pdftypes\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PSKeyword",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.psparser\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PSLiteral",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.psparser\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LIT",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.psparser\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "isnumber",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.utils\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AnyIO",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.utils\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pdfminer.high_level",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer.high_level",
+        "description": "pdfminer.high_level",
+        "detail": "pdfminer.high_level",
+        "documentation": {
+            "value": "\n```python\nimport pdfminer.high_level\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.asgi",
+        "description": "pdfProcess.pdfProcess.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "pdfProcess.pdfProcess.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-#!kc5zq#(r$s4($d)vu)p)vs5ki0dfk0f3v*dl#e=ibj3+s!0n'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-#!kc5zq#(r$s4($d)vu)p)vs5ki0dfk0f3v*dl#e=ibj3+s!0n'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-#!kc5zq#(r$s4($d)vu)p)vs5ki0dfk0f3v*dl#e=ibj3+s!0n'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'django-insecure-#!kc5zq#(r$s4($d)vu)p)vs5ki0dfk0f3v*dl#e=ibj3+s!0n'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'user',",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'user',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'user',\n    'django_cleanup',\n]",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'user',\n    'django_cleanup',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pdfProcess.urls'",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pdfProcess.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "ROOT_URLCONF = 'pdfProcess.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'pdfProcess.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'pdfProcess.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'pdfProcess.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'tr'\nTIME_ZONE = 'Europe/Istanbul'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'tr'\nTIME_ZONE = 'Europe/Istanbul'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "TIME_ZONE = 'Europe/Istanbul'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'Europe/Istanbul'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "STATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import STATICFILES_DIRS\n```\n\n```python\n\n\n```\n\n```python\nSTATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static'), ]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import DEFAULT_AUTO_FIELD\n```\n\n```python\n\n\n```\n\n```python\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.settings",
+        "description": "pdfProcess.pdfProcess.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "pdfProcess.pdfProcess.settings",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.urls",
+        "description": "pdfProcess.pdfProcess.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls, name=\"admin\"),\n    path('',views.index, name=\"index\"),\n    path('dashBoard',views.dashBoard, name=\"dashBoard\"),\n    path('addPdf',views.addPDF, name=\"addPdf\"),\n    path('search', views.searchData, name = \"search\"),\n    path('details/<int:id>', views.details, name = \"details\"),\n    path('delete/<int:id>', views.deletePdf, name = \"delete\"),\n    path('loginUser', views.loginUser, name = \"loginUser\"),\n    path('logOut', views.logOut, name = \"logOut\"),",
+        "detail": "pdfProcess.pdfProcess.urls",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls, name=\"admin\"),\n    path('',views.index, name=\"index\"),\n    path('dashBoard',views.dashBoard, name=\"dashBoard\"),\n    path('addPdf',views.addPDF, name=\"addPdf\"),\n    path('search', views.searchData, name = \"search\"),\n    path('details/<int:id>', views.details, name = \"details\"),\n    path('delete/<int:id>', views.deletePdf, name = \"delete\"),\n    path('loginUser', views.loginUser, name = \"loginUser\"),\n    path('logOut', views.logOut, name = \"logOut\"),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pdfProcess.pdfProcess.wsgi",
+        "description": "pdfProcess.pdfProcess.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "pdfProcess.pdfProcess.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.pdfProcess.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pdfProcess.user.migrations.0001_initial",
+        "description": "pdfProcess.user.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='PdfLoad',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "pdfProcess.user.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='PdfLoad',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pdfProcess.user.migrations.0002_rename_createddatwe_pdfload_createddate",
+        "description": "pdfProcess.user.migrations.0002_rename_createddatwe_pdfload_createddate",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('user', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='pdfload',\n            old_name='createdDatwe',\n            new_name='createdDate',\n        ),",
+        "detail": "pdfProcess.user.migrations.0002_rename_createddatwe_pdfload_createddate",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.migrations.0002_rename_createddatwe_pdfload_createddate import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('user', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='pdfload',\n            old_name='createdDatwe',\n            new_name='createdDate',\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pdfProcess.user.migrations.0003_remove_datapdf_department_remove_datapdf_faculty_and_more",
+        "description": "pdfProcess.user.migrations.0003_remove_datapdf_department_remove_datapdf_faculty_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('user', '0002_rename_createddatwe_pdfload_createddate'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='datapdf',\n            name='department',\n        ),\n        migrations.RemoveField(",
+        "detail": "pdfProcess.user.migrations.0003_remove_datapdf_department_remove_datapdf_faculty_and_more",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.migrations.0003_remove_datapdf_department_remove_datapdf_faculty_and_more import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('user', '0002_rename_createddatwe_pdfload_createddate'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='datapdf',\n            name='department',\n        ),\n        migrations.RemoveField(\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PDFLoadAdmin",
+        "kind": 6,
+        "importPath": "pdfProcess.user.admin",
+        "description": "pdfProcess.user.admin",
+        "peekOfCode": "class PDFLoadAdmin(admin.ModelAdmin):\n    list_display = ['lecturer', 'createdDate', 'createdPdf']\n    list_filter = ['lecturer', 'createdDate']\n    search_fields = ['lecturer', 'createdDate']\n    class Meta:\n        model = PdfLoad\n@admin.register(DataPdf)\nclass DataPdfAdmin(admin.ModelAdmin):\n    list_display = ['pdfFile', 'projectTitle', 'presentationDate', 'studentInfo']\n    search_fields = ['presentationDate','studentInfo','lecture','projectTitle','keyWords']",
+        "detail": "pdfProcess.user.admin",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.admin import PDFLoadAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass PDFLoadAdmin(admin.ModelAdmin):\n    list_display = ['lecturer', 'createdDate', 'createdPdf']\n    list_filter = ['lecturer', 'createdDate']\n    search_fields = ['lecturer', 'createdDate']\n    class Meta:\n        model = PdfLoad\n@admin.register(DataPdf)\nclass DataPdfAdmin(admin.ModelAdmin):\n    list_display = ['pdfFile', 'projectTitle', 'presentationDate', 'studentInfo']\n    search_fields = ['presentationDate','studentInfo','lecture','projectTitle','keyWords']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DataPdfAdmin",
+        "kind": 6,
+        "importPath": "pdfProcess.user.admin",
+        "description": "pdfProcess.user.admin",
+        "peekOfCode": "class DataPdfAdmin(admin.ModelAdmin):\n    list_display = ['pdfFile', 'projectTitle', 'presentationDate', 'studentInfo']\n    search_fields = ['presentationDate','studentInfo','lecture','projectTitle','keyWords']\n    list_filter = ['pdfFile','presentationDate','studentInfo','lecture','projectTitle','keyWords']\n    class Meta:\n        model = DataPdf",
+        "detail": "pdfProcess.user.admin",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.admin import DataPdfAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass DataPdfAdmin(admin.ModelAdmin):\n    list_display = ['pdfFile', 'projectTitle', 'presentationDate', 'studentInfo']\n    search_fields = ['presentationDate','studentInfo','lecture','projectTitle','keyWords']\n    list_filter = ['pdfFile','presentationDate','studentInfo','lecture','projectTitle','keyWords']\n    class Meta:\n        model = DataPdf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UserConfig",
+        "kind": 6,
+        "importPath": "pdfProcess.user.apps",
+        "description": "pdfProcess.user.apps",
+        "peekOfCode": "class UserConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user'",
+        "detail": "pdfProcess.user.apps",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.apps import UserConfig\n```\n\n```python\n\n\n```\n\n```python\nclass UserConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PdfLoadForm",
+        "kind": 6,
+        "importPath": "pdfProcess.user.forms",
+        "description": "pdfProcess.user.forms",
+        "peekOfCode": "class PdfLoadForm(forms.ModelForm):\n    class Meta:\n        model = PdfLoad\n        fields = [\"createdPdf\"]",
+        "detail": "pdfProcess.user.forms",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.forms import PdfLoadForm\n```\n\n```python\n\n\n```\n\n```python\nclass PdfLoadForm(forms.ModelForm):\n    class Meta:\n        model = PdfLoad\n        fields = [\"createdPdf\"]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PdfLoad",
+        "kind": 6,
+        "importPath": "pdfProcess.user.models",
+        "description": "pdfProcess.user.models",
+        "peekOfCode": "class PdfLoad(models.Model):\n    lecturer = models.ForeignKey(\"auth.User\", on_delete=models.CASCADE, verbose_name=\"Öğretim Elemanı\")\n    createdPdf = models.FileField(verbose_name=\"PDF Ekle\")\n    createdDate = models.DateField(auto_now_add=True, verbose_name=\"Eklenme Tarihi\")\n    def __str__(self):\n        return str(self.lecturer)\nclass DataPdf(models.Model):\n    pdfFile = models.ForeignKey(PdfLoad, on_delete=models.CASCADE, verbose_name=\"Eklenen PDF\")\n    okul = models.TextField(verbose_name=\"Okul\", null=True)\n    lecture = models.TextField(verbose_name=\"Ders\")",
+        "detail": "pdfProcess.user.models",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.models import PdfLoad\n```\n\n```python\n\n\n```\n\n```python\nclass PdfLoad(models.Model):\n    lecturer = models.ForeignKey(\"auth.User\", on_delete=models.CASCADE, verbose_name=\"Öğretim Elemanı\")\n    createdPdf = models.FileField(verbose_name=\"PDF Ekle\")\n    createdDate = models.DateField(auto_now_add=True, verbose_name=\"Eklenme Tarihi\")\n    def __str__(self):\n        return str(self.lecturer)\nclass DataPdf(models.Model):\n    pdfFile = models.ForeignKey(PdfLoad, on_delete=models.CASCADE, verbose_name=\"Eklenen PDF\")\n    okul = models.TextField(verbose_name=\"Okul\", null=True)\n    lecture = models.TextField(verbose_name=\"Ders\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DataPdf",
+        "kind": 6,
+        "importPath": "pdfProcess.user.models",
+        "description": "pdfProcess.user.models",
+        "peekOfCode": "class DataPdf(models.Model):\n    pdfFile = models.ForeignKey(PdfLoad, on_delete=models.CASCADE, verbose_name=\"Eklenen PDF\")\n    okul = models.TextField(verbose_name=\"Okul\", null=True)\n    lecture = models.TextField(verbose_name=\"Ders\")\n    projectTitle = models.TextField(verbose_name=\"Proje Başlığı\")\n    studentInfo = models.TextField(verbose_name=\"Öğrenci Bilgileri\")\n    superVisor = models.TextField(verbose_name=\"Danışman Bilgileri\")\n    juries = models.TextField(verbose_name=\"Juri Bilgileri\", null=True)\n    presentationDate = models.TextField(verbose_name=\"Savunma Dönemi\")\n    abstract = models.TextField(verbose_name=\"Özet\")",
+        "detail": "pdfProcess.user.models",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.models import DataPdf\n```\n\n```python\n\n\n```\n\n```python\nclass DataPdf(models.Model):\n    pdfFile = models.ForeignKey(PdfLoad, on_delete=models.CASCADE, verbose_name=\"Eklenen PDF\")\n    okul = models.TextField(verbose_name=\"Okul\", null=True)\n    lecture = models.TextField(verbose_name=\"Ders\")\n    projectTitle = models.TextField(verbose_name=\"Proje Başlığı\")\n    studentInfo = models.TextField(verbose_name=\"Öğrenci Bilgileri\")\n    superVisor = models.TextField(verbose_name=\"Danışman Bilgileri\")\n    juries = models.TextField(verbose_name=\"Juri Bilgileri\", null=True)\n    presentationDate = models.TextField(verbose_name=\"Savunma Dönemi\")\n    abstract = models.TextField(verbose_name=\"Özet\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def index(request):\n    return render(request, \"index.html\")\n@login_required(login_url=\"loginUser\")\ndef dashBoard(request):\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    dataPdfs = DataPdf.objects.filter(pdfFile_id__in = ids) \n    context = {\"dataPdfs\": dataPdfs, \"pdfLoads\": pdfLoads}\n    return render(request, \"dashBoard.html\", context)\n@login_required(login_url=\"loginUser\")",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import index\n```\n\n```python\n\n\n```\n\n```python\ndef index(request):\n    return render(request, \"index.html\")\n@login_required(login_url=\"loginUser\")\ndef dashBoard(request):\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    dataPdfs = DataPdf.objects.filter(pdfFile_id__in = ids) \n    context = {\"dataPdfs\": dataPdfs, \"pdfLoads\": pdfLoads}\n    return render(request, \"dashBoard.html\", context)\n@login_required(login_url=\"loginUser\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dashBoard",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def dashBoard(request):\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    dataPdfs = DataPdf.objects.filter(pdfFile_id__in = ids) \n    context = {\"dataPdfs\": dataPdfs, \"pdfLoads\": pdfLoads}\n    return render(request, \"dashBoard.html\", context)\n@login_required(login_url=\"loginUser\")\ndef addPDF(request):\n    form = PdfLoadForm(request.POST or None, request.FILES or None) \n    dataPdf = DataPdf()",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import dashBoard\n```\n\n```python\n\n\n```\n\n```python\ndef dashBoard(request):\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    dataPdfs = DataPdf.objects.filter(pdfFile_id__in = ids) \n    context = {\"dataPdfs\": dataPdfs, \"pdfLoads\": pdfLoads}\n    return render(request, \"dashBoard.html\", context)\n@login_required(login_url=\"loginUser\")\ndef addPDF(request):\n    form = PdfLoadForm(request.POST or None, request.FILES or None) \n    dataPdf = DataPdf()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "addPDF",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def addPDF(request):\n    form = PdfLoadForm(request.POST or None, request.FILES or None) \n    dataPdf = DataPdf()\n    ozetSayfaStr = request.POST.get(\"ozet\")\n    if form.is_valid():\n        if ozetSayfaStr:\n            pdfUpload = form.save(commit=False)\n            pdfUpload.lecturer = request.user\n            pdfUpload.save()\n            file = request.FILES['createdPdf']   ",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import addPDF\n```\n\n```python\n\n\n```\n\n```python\ndef addPDF(request):\n    form = PdfLoadForm(request.POST or None, request.FILES or None) \n    dataPdf = DataPdf()\n    ozetSayfaStr = request.POST.get(\"ozet\")\n    if form.is_valid():\n        if ozetSayfaStr:\n            pdfUpload = form.save(commit=False)\n            pdfUpload.lecturer = request.user\n            pdfUpload.save()\n            file = request.FILES['createdPdf']   \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pdfHandler",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def pdfHandler(pdfAdres, ozetSayfa):\n    output_string = StringIO()\n    with open(pdfAdres, 'rb') as in_file:\n        parser = PDFParser(in_file)\n        doc = PDFDocument(parser)\n        rsrcmgr = PDFResourceManager()\n        device = TextConverter(rsrcmgr, output_string, laparams=LAParams(boxes_flow=None))\n        interpreter = PDFPageInterpreter(rsrcmgr, device)\n        for pageNumber, page in enumerate(PDFPage.create_pages(doc)):\n            if pageNumber != 0:",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import pdfHandler\n```\n\n```python\n\n\n```\n\n```python\ndef pdfHandler(pdfAdres, ozetSayfa):\n    output_string = StringIO()\n    with open(pdfAdres, 'rb') as in_file:\n        parser = PDFParser(in_file)\n        doc = PDFDocument(parser)\n        rsrcmgr = PDFResourceManager()\n        device = TextConverter(rsrcmgr, output_string, laparams=LAParams(boxes_flow=None))\n        interpreter = PDFPageInterpreter(rsrcmgr, device)\n        for pageNumber, page in enumerate(PDFPage.create_pages(doc)):\n            if pageNumber != 0:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "listToString",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def listToString(s): \n    str1 = \" \"   \n    return (str1.join(s))\ndef splitEmptyLines(outputString):\n    # greedily match 2 or more new-lines\n    blank_line_regex = r\"(?:\\r?\\n){1,}\"\n    return re.split(blank_line_regex, outputString.strip())\n@login_required(login_url=\"loginUser\")\ndef searchData(request):\n    radioCheck = request.POST.get(\"flexRadioDefault\")",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import listToString\n```\n\n```python\n\n\n```\n\n```python\ndef listToString(s): \n    str1 = \" \"   \n    return (str1.join(s))\ndef splitEmptyLines(outputString):\n    # greedily match 2 or more new-lines\n    blank_line_regex = r\"(?:\\r?\\n){1,}\"\n    return re.split(blank_line_regex, outputString.strip())\n@login_required(login_url=\"loginUser\")\ndef searchData(request):\n    radioCheck = request.POST.get(\"flexRadioDefault\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "splitEmptyLines",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def splitEmptyLines(outputString):\n    # greedily match 2 or more new-lines\n    blank_line_regex = r\"(?:\\r?\\n){1,}\"\n    return re.split(blank_line_regex, outputString.strip())\n@login_required(login_url=\"loginUser\")\ndef searchData(request):\n    radioCheck = request.POST.get(\"flexRadioDefault\")\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    ara = request.POST.get(\"aramaYap\")",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import splitEmptyLines\n```\n\n```python\n\n\n```\n\n```python\ndef splitEmptyLines(outputString):\n    # greedily match 2 or more new-lines\n    blank_line_regex = r\"(?:\\r?\\n){1,}\"\n    return re.split(blank_line_regex, outputString.strip())\n@login_required(login_url=\"loginUser\")\ndef searchData(request):\n    radioCheck = request.POST.get(\"flexRadioDefault\")\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    ara = request.POST.get(\"aramaYap\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "searchData",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def searchData(request):\n    radioCheck = request.POST.get(\"flexRadioDefault\")\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    ara = request.POST.get(\"aramaYap\")\n    if ara != \"\":\n        messages.success(request, \"Arama başarılı. Sonuçlar listelendi.\")\n        if radioCheck == \"1\":\n            donem = request.POST.get(\"aramaYap2\")\n            dataPdfs = DataPdf.objects.filter(Q(pdfFile_id__in = ids) & Q(lecture__contains=ara) & Q(presentationDate__contains=donem))",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import searchData\n```\n\n```python\n\n\n```\n\n```python\ndef searchData(request):\n    radioCheck = request.POST.get(\"flexRadioDefault\")\n    pdfLoads = PdfLoad.objects.filter(lecturer= request.user)\n    ids    = pdfLoads.values_list('id', flat=True)\n    ara = request.POST.get(\"aramaYap\")\n    if ara != \"\":\n        messages.success(request, \"Arama başarılı. Sonuçlar listelendi.\")\n        if radioCheck == \"1\":\n            donem = request.POST.get(\"aramaYap2\")\n            dataPdfs = DataPdf.objects.filter(Q(pdfFile_id__in = ids) & Q(lecture__contains=ara) & Q(presentationDate__contains=donem))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "details",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def details(request, id):\n    pdfData = DataPdf.objects.filter(id = id)\n    pdfID = 0\n    for i in pdfData:\n        pdfID = i.pdfFile_id\n    pdfLoad = PdfLoad.objects.filter(id = pdfID)\n    print(pdfID)\n    context = {\"pdfData\": pdfData, \"pdfLoad\":pdfLoad}\n    return render (request, \"details.html\", context)\n@login_required(login_url=\"loginUser\")",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import details\n```\n\n```python\n\n\n```\n\n```python\ndef details(request, id):\n    pdfData = DataPdf.objects.filter(id = id)\n    pdfID = 0\n    for i in pdfData:\n        pdfID = i.pdfFile_id\n    pdfLoad = PdfLoad.objects.filter(id = pdfID)\n    print(pdfID)\n    context = {\"pdfData\": pdfData, \"pdfLoad\":pdfLoad}\n    return render (request, \"details.html\", context)\n@login_required(login_url=\"loginUser\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "deletePdf",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def deletePdf(request, id):\n    pdfLoad = PdfLoad.objects.filter(id = id)\n    pdfLoad.delete()\n    messages.success(request, \"Silme işlemi başarılı\")\n    return redirect(\"dashBoard\")\ndef loginUser(request):\n    usr = request.POST.get(\"usr\")\n    pwd = request.POST.get(\"pwd\")\n    user = authenticate(username = usr, password=pwd)\n    if user is None:     ",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import deletePdf\n```\n\n```python\n\n\n```\n\n```python\ndef deletePdf(request, id):\n    pdfLoad = PdfLoad.objects.filter(id = id)\n    pdfLoad.delete()\n    messages.success(request, \"Silme işlemi başarılı\")\n    return redirect(\"dashBoard\")\ndef loginUser(request):\n    usr = request.POST.get(\"usr\")\n    pwd = request.POST.get(\"pwd\")\n    user = authenticate(username = usr, password=pwd)\n    if user is None:     \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "loginUser",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def loginUser(request):\n    usr = request.POST.get(\"usr\")\n    pwd = request.POST.get(\"pwd\")\n    user = authenticate(username = usr, password=pwd)\n    if user is None:     \n        return render(request, \"loginUser.html\")\n    else:\n        login(request, user)\n        messages.success(request, \"Giriş başarılı\")\n        return redirect(\"index\")",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import loginUser\n```\n\n```python\n\n\n```\n\n```python\ndef loginUser(request):\n    usr = request.POST.get(\"usr\")\n    pwd = request.POST.get(\"pwd\")\n    user = authenticate(username = usr, password=pwd)\n    if user is None:     \n        return render(request, \"loginUser.html\")\n    else:\n        login(request, user)\n        messages.success(request, \"Giriş başarılı\")\n        return redirect(\"index\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logOut",
+        "kind": 2,
+        "importPath": "pdfProcess.user.views",
+        "description": "pdfProcess.user.views",
+        "peekOfCode": "def logOut(request):\n    logout(request)\n    messages.success(request, \"Çıkış başarılı\")\n    return redirect(\"loginUser\")",
+        "detail": "pdfProcess.user.views",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.user.views import logOut\n```\n\n```python\n\n\n```\n\n```python\ndef logOut(request):\n    logout(request)\n    messages.success(request, \"Çıkış başarılı\")\n    return redirect(\"loginUser\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pdfProcess.manage",
+        "description": "pdfProcess.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pdfProcess.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "pdfProcess.manage",
+        "documentation": {
+            "value": "\n```python\nfrom pdfProcess.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pdfProcess.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "escape",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, 'latin-1')\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: '&#%d;' % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write('<null />')\n        return",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import escape\n```\n\n```python\n\n\n```\n\n```python\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, 'latin-1')\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: '&#%d;' % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write('<null />')\n        return\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dumpxml",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write('<null />')\n        return\n    if isinstance(obj, dict):\n        out.write('<dict size=\"%d\">\\n' % len(obj))\n        for (k, v) in obj.items():\n            out.write('<key>%s</key>\\n' % k)\n            out.write('<value>')\n            dumpxml(out, v)",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import dumpxml\n```\n\n```python\n\n\n```\n\n```python\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write('<null />')\n        return\n    if isinstance(obj, dict):\n        out.write('<dict size=\"%d\">\\n' % len(obj))\n        for (k, v) in obj.items():\n            out.write('<key>%s</key>\\n' % k)\n            out.write('<value>')\n            dumpxml(out, v)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dumptrailers",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def dumptrailers(\n    out: TextIO,\n    doc: PDFDocument,\n    show_fallback_xref: bool = False\n) -> None:\n    for xref in doc.xrefs:\n        if not isinstance(xref, PDFXRefFallback) or show_fallback_xref:\n            out.write('<trailer>\\n')\n            dumpxml(out, xref.get_trailer())\n            out.write('\\n</trailer>\\n\\n')",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import dumptrailers\n```\n\n```python\n\n\n```\n\n```python\ndef dumptrailers(\n    out: TextIO,\n    doc: PDFDocument,\n    show_fallback_xref: bool = False\n) -> None:\n    for xref in doc.xrefs:\n        if not isinstance(xref, PDFXRefFallback) or show_fallback_xref:\n            out.write('<trailer>\\n')\n            dumpxml(out, xref.get_trailer())\n            out.write('\\n</trailer>\\n\\n')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dumpallobjs",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def dumpallobjs(\n    out: TextIO,\n    doc: PDFDocument,\n    codec: Optional[str] = None,\n    show_fallback_xref: bool = False\n) -> None:\n    visited = set()\n    out.write('<pdf>')\n    for xref in doc.xrefs:\n        for objid in xref.get_objids():",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import dumpallobjs\n```\n\n```python\n\n\n```\n\n```python\ndef dumpallobjs(\n    out: TextIO,\n    doc: PDFDocument,\n    codec: Optional[str] = None,\n    show_fallback_xref: bool = False\n) -> None:\n    visited = set()\n    out.write('<pdf>')\n    for xref in doc.xrefs:\n        for objid in xref.get_objids():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dumpoutline",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def dumpoutline(\n    outfp: TextIO,\n    fname: str,\n    objids: Any,\n    pagenos: Container[int],\n    password: str = '',\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None\n) -> None:",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import dumpoutline\n```\n\n```python\n\n\n```\n\n```python\ndef dumpoutline(\n    outfp: TextIO,\n    fname: str,\n    objids: Any,\n    pagenos: Container[int],\n    password: str = '',\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None\n) -> None:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "extractembedded",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get('UF') or\n                                    cast(bytes, obj.get('F')).decode())\n        fileref = obj['EF'].get('UF') or obj['EF'].get('F')\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = 'unable to process PDF: reference for %r is not a ' \\\n                        'PDFStream' % filename\n            raise PDFValueError(error_msg)",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import extractembedded\n```\n\n```python\n\n\n```\n\n```python\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get('UF') or\n                                    cast(bytes, obj.get('F')).decode())\n        fileref = obj['EF'].get('UF') or obj['EF'].get('F')\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = 'unable to process PDF: reference for %r is not a ' \\\n                        'PDFStream' % filename\n            raise PDFValueError(error_msg)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dumppdf",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def dumppdf(\n    outfp: TextIO,\n    fname: str,\n    objids: Iterable[int],\n    pagenos: Container[int],\n    password: str = '',\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None,\n    show_fallback_xref: bool = False",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import dumppdf\n```\n\n```python\n\n\n```\n\n```python\ndef dumppdf(\n    outfp: TextIO,\n    fname: str,\n    objids: Iterable[int],\n    pagenos: Container[int],\n    password: str = '',\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None,\n    show_fallback_xref: bool = False\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def create_parser() -> ArgumentParser:\n    parser = ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument('files', type=str, default=None, nargs='+',\n                        help='One or more paths to PDF files.')\n    parser.add_argument(\n        \"--version\", \"-v\", action=\"version\",\n        version=\"pdfminer.six v{}\".format(pdfminer.__version__))\n    parser.add_argument(\n        '--debug', '-d', default=False, action='store_true',\n        help='Use debug logging level.')",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import create_parser\n```\n\n```python\n\n\n```\n\n```python\ndef create_parser() -> ArgumentParser:\n    parser = ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument('files', type=str, default=None, nargs='+',\n                        help='One or more paths to PDF files.')\n    parser.add_argument(\n        \"--version\", \"-v\", action=\"version\",\n        version=\"pdfminer.six v{}\".format(pdfminer.__version__))\n    parser.add_argument(\n        '--debug', '-d', default=False, action='store_true',\n        help='Use debug logging level.')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "def main(argv: Optional[List[str]] = None) -> None:\n    parser = create_parser()\n    args = parser.parse_args(args=argv)\n    if args.debug:\n        logging.getLogger().setLevel(logging.DEBUG)\n    if args.outfile == '-':\n        outfp = sys.stdout\n    else:\n        outfp = open(args.outfile, 'w')\n    if args.objects:",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import main\n```\n\n```python\n\n\n```\n\n```python\ndef main(argv: Optional[List[str]] = None) -> None:\n    parser = create_parser()\n    args = parser.parse_args(args=argv)\n    if args.debug:\n        logging.getLogger().setLevel(logging.DEBUG)\n    if args.outfile == '-':\n        outfp = sys.stdout\n    else:\n        outfp = open(args.outfile, 'w')\n    if args.objects:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ESC_PAT",
+        "kind": 5,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "ESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, 'latin-1')\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: '&#%d;' % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write('<null />')",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import ESC_PAT\n```\n\n```python\n\n\n```\n\n```python\nESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, 'latin-1')\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: '&#%d;' % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write('<null />')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LITERAL_FILESPEC",
+        "kind": 5,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "LITERAL_FILESPEC = LIT('Filespec')\nLITERAL_EMBEDDEDFILE = LIT('EmbeddedFile')\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get('UF') or\n                                    cast(bytes, obj.get('F')).decode())\n        fileref = obj['EF'].get('UF') or obj['EF'].get('F')\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = 'unable to process PDF: reference for %r is not a ' \\",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import LITERAL_FILESPEC\n```\n\n```python\n\n\n```\n\n```python\nLITERAL_FILESPEC = LIT('Filespec')\nLITERAL_EMBEDDEDFILE = LIT('EmbeddedFile')\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get('UF') or\n                                    cast(bytes, obj.get('F')).decode())\n        fileref = obj['EF'].get('UF') or obj['EF'].get('F')\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = 'unable to process PDF: reference for %r is not a ' \\\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LITERAL_EMBEDDEDFILE",
+        "kind": 5,
+        "importPath": "PdfVenv.Scripts.dumppdf",
+        "description": "PdfVenv.Scripts.dumppdf",
+        "peekOfCode": "LITERAL_EMBEDDEDFILE = LIT('EmbeddedFile')\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get('UF') or\n                                    cast(bytes, obj.get('F')).decode())\n        fileref = obj['EF'].get('UF') or obj['EF'].get('F')\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = 'unable to process PDF: reference for %r is not a ' \\\n                        'PDFStream' % filename",
+        "detail": "PdfVenv.Scripts.dumppdf",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.dumppdf import LITERAL_EMBEDDEDFILE\n```\n\n```python\n\n\n```\n\n```python\nLITERAL_EMBEDDEDFILE = LIT('EmbeddedFile')\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get('UF') or\n                                    cast(bytes, obj.get('F')).decode())\n        fileref = obj['EF'].get('UF') or obj['EF'].get('F')\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = 'unable to process PDF: reference for %r is not a ' \\\n                        'PDFStream' % filename\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "float_or_disabled",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.pdf2txt",
+        "description": "PdfVenv.Scripts.pdf2txt",
+        "peekOfCode": "def float_or_disabled(x: str) -> FloatOrDisabled:\n    if x.lower().strip() == \"disabled\":\n        return \"disabled\"\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],\n    outfile: str = '-',",
+        "detail": "PdfVenv.Scripts.pdf2txt",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.pdf2txt import float_or_disabled\n```\n\n```python\n\n\n```\n\n```python\ndef float_or_disabled(x: str) -> FloatOrDisabled:\n    if x.lower().strip() == \"disabled\":\n        return \"disabled\"\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],\n    outfile: str = '-',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.pdf2txt",
+        "description": "PdfVenv.Scripts.pdf2txt",
+        "peekOfCode": "def extract_text(\n    files: Iterable[str] = [],\n    outfile: str = '-',\n    no_laparams: bool = False,\n    all_texts: Optional[bool] = None,\n    detect_vertical: Optional[bool] = None,\n    word_margin: Optional[float] = None,\n    char_margin: Optional[float] = None,\n    line_margin: Optional[float] = None,\n    boxes_flow: Optional[FloatOrDisabled] = None,",
+        "detail": "PdfVenv.Scripts.pdf2txt",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.pdf2txt import extract_text\n```\n\n```python\n\n\n```\n\n```python\ndef extract_text(\n    files: Iterable[str] = [],\n    outfile: str = '-',\n    no_laparams: bool = False,\n    all_texts: Optional[bool] = None,\n    detect_vertical: Optional[bool] = None,\n    word_margin: Optional[float] = None,\n    char_margin: Optional[float] = None,\n    line_margin: Optional[float] = None,\n    boxes_flow: Optional[FloatOrDisabled] = None,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "maketheparser",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.pdf2txt",
+        "description": "PdfVenv.Scripts.pdf2txt",
+        "peekOfCode": "def maketheparser() -> argparse.ArgumentParser:\n    parser = argparse.ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\", type=str, default=None, nargs=\"+\",\n        help=\"One or more paths to PDF files.\")\n    parser.add_argument(\n        \"--version\", \"-v\", action=\"version\",\n        version=\"pdfminer.six v{}\".format(pdfminer.__version__))\n    parser.add_argument(\n        \"--debug\", \"-d\", default=False, action=\"store_true\",",
+        "detail": "PdfVenv.Scripts.pdf2txt",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.pdf2txt import maketheparser\n```\n\n```python\n\n\n```\n\n```python\ndef maketheparser() -> argparse.ArgumentParser:\n    parser = argparse.ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\", type=str, default=None, nargs=\"+\",\n        help=\"One or more paths to PDF files.\")\n    parser.add_argument(\n        \"--version\", \"-v\", action=\"version\",\n        version=\"pdfminer.six v{}\".format(pdfminer.__version__))\n    parser.add_argument(\n        \"--debug\", \"-d\", default=False, action=\"store_true\",\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "PdfVenv.Scripts.pdf2txt",
+        "description": "PdfVenv.Scripts.pdf2txt",
+        "peekOfCode": "def main(args: Optional[List[str]] = None) -> int:\n    P = maketheparser()\n    A = P.parse_args(args=args)\n    if A.page_numbers:\n        A.page_numbers = {x-1 for x in A.page_numbers}\n    if A.pagenos:\n        A.page_numbers = {int(x)-1 for x in A.pagenos.split(\",\")}\n    if A.output_type == \"text\" and A.outfile != \"-\":\n        for override, alttype in OUTPUT_TYPES:\n            if A.outfile.endswith(override):",
+        "detail": "PdfVenv.Scripts.pdf2txt",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.pdf2txt import main\n```\n\n```python\n\n\n```\n\n```python\ndef main(args: Optional[List[str]] = None) -> int:\n    P = maketheparser()\n    A = P.parse_args(args=args)\n    if A.page_numbers:\n        A.page_numbers = {x-1 for x in A.page_numbers}\n    if A.pagenos:\n        A.page_numbers = {int(x)-1 for x in A.pagenos.split(\",\")}\n    if A.output_type == \"text\" and A.outfile != \"-\":\n        for override, alttype in OUTPUT_TYPES:\n            if A.outfile.endswith(override):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OUTPUT_TYPES",
+        "kind": 5,
+        "importPath": "PdfVenv.Scripts.pdf2txt",
+        "description": "PdfVenv.Scripts.pdf2txt",
+        "peekOfCode": "OUTPUT_TYPES = ((\".htm\", \"html\"),\n                (\".html\", \"html\"),\n                (\".xml\", \"xml\"),\n                (\".tag\", \"tag\"))\nFloatOrDisabled = Union[float, str]  # Union[float, Literal[\"disabled\"]]\ndef float_or_disabled(x: str) -> FloatOrDisabled:\n    if x.lower().strip() == \"disabled\":\n        return \"disabled\"\n    try:\n        return float(x)",
+        "detail": "PdfVenv.Scripts.pdf2txt",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.pdf2txt import OUTPUT_TYPES\n```\n\n```python\n\n\n```\n\n```python\nOUTPUT_TYPES = ((\".htm\", \"html\"),\n                (\".html\", \"html\"),\n                (\".xml\", \"xml\"),\n                (\".tag\", \"tag\"))\nFloatOrDisabled = Union[float, str]  # Union[float, Literal[\"disabled\"]]\ndef float_or_disabled(x: str) -> FloatOrDisabled:\n    if x.lower().strip() == \"disabled\":\n        return \"disabled\"\n    try:\n        return float(x)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "FloatOrDisabled",
+        "kind": 5,
+        "importPath": "PdfVenv.Scripts.pdf2txt",
+        "description": "PdfVenv.Scripts.pdf2txt",
+        "peekOfCode": "FloatOrDisabled = Union[float, str]  # Union[float, Literal[\"disabled\"]]\ndef float_or_disabled(x: str) -> FloatOrDisabled:\n    if x.lower().strip() == \"disabled\":\n        return \"disabled\"\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],",
+        "detail": "PdfVenv.Scripts.pdf2txt",
+        "documentation": {
+            "value": "\n```python\nfrom PdfVenv.Scripts.pdf2txt import FloatOrDisabled\n```\n\n```python\n\n\n```\n\n```python\nFloatOrDisabled = Union[float, str]  # Union[float, Literal[\"disabled\"]]\ndef float_or_disabled(x: str) -> FloatOrDisabled:\n    if x.lower().strip() == \"disabled\":\n        return \"disabled\"\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pdfHandler",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def pdfHandler():\n    output_string = StringIO()\n    with open('OrnekTez4.pdf', 'rb') as in_file:\n        parser = PDFParser(in_file)\n        doc = PDFDocument(parser)\n        rsrcmgr = PDFResourceManager()\n        device = TextConverter(rsrcmgr, output_string, laparams=LAParams(boxes_flow=None))\n        interpreter = PDFPageInterpreter(rsrcmgr, device)\n        for pageNumber, page in enumerate(PDFPage.create_pages(doc)):\n            if pageNumber != 0:",
+        "detail": "main",
+        "documentation": {
+            "value": "\n```python\nfrom main import pdfHandler\n```\n\n```python\n\n\n```\n\n```python\ndef pdfHandler():\n    output_string = StringIO()\n    with open('OrnekTez4.pdf', 'rb') as in_file:\n        parser = PDFParser(in_file)\n        doc = PDFDocument(parser)\n        rsrcmgr = PDFResourceManager()\n        device = TextConverter(rsrcmgr, output_string, laparams=LAParams(boxes_flow=None))\n        interpreter = PDFPageInterpreter(rsrcmgr, device)\n        for pageNumber, page in enumerate(PDFPage.create_pages(doc)):\n            if pageNumber != 0:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "listToString",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def listToString(s): \n    str1 = \" \"   \n    return (str1.join(s))\nprint(pdfHandler())",
+        "detail": "main",
+        "documentation": {
+            "value": "\n```python\nfrom main import listToString\n```\n\n```python\n\n\n```\n\n```python\ndef listToString(s): \n    str1 = \" \"   \n    return (str1.join(s))\nprint(pdfHandler())\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
